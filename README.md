@@ -1,2 +1,2 @@
 # TestNG-gitRepository
-TestNG
+TestNG-gitRepository
